@@ -6,7 +6,6 @@ export default class App {
             sliderContainer: '.slider',
             margin: 10,
             slidesToShow: [2,1],
-            slidesToScroll: [1,1],
             mobileResolution: 768,
             nextButton: '.next',
             prevButton: '.prev'
